@@ -1,0 +1,25 @@
+{
+  "name": "rc-loader",
+  "version": "0.0.1",
+  "description": "A loader for babel style rc files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adierkens/rc-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Adam Dierkens <adam@dierkens.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adierkens/rc-loader/issues"
+  },
+  "homepage": "https://github.com/adierkens/rc-loader#readme",
+  "dependencies": {
+  }
+}
