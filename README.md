@@ -1,4 +1,4 @@
-# rc-loader
+# rc-exports-loader
 A webpack loader for babel-style rc files
 
 ## Usage
@@ -33,7 +33,7 @@ module: {
     rules: [
         {
             test: /\.testrc$/,
-            use: 'rc-loader'
+            use: 'rc-exports-loader'
         }
     ]    
 }
